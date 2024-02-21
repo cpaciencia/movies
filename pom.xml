@@ -25,12 +25,6 @@
         <tea.shared>1.3.2-SNAPSHOT</tea.shared>
         <hibernate-validator.version>8.0.0.Final</hibernate-validator.version>
     </properties>
-    <repositories>
-        <repository>
-            <id>nexus</id>
-            <url>https://nexus.tev2.co/repository/maven-public/</url>
-        </repository>
-    </repositories>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
